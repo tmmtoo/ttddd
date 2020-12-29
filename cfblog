@@ -23,8 +23,8 @@ const OPT = {
     <script>
         new Valine({
             el:'#vcomment',
-            appId: 'NdSNmkGFSni8QzUSceJBXKjv-MdYXbMMI',
-            appKey: 'gkbo059TAPLxERy1vBTi3QDN',
+            appId: '55555555555555555',
+            appKey: 'g55555555555555555555',
             avatar:'monsterid',
             placeholder:"整两句..."
         })
